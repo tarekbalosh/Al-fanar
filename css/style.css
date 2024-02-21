@@ -1,0 +1,440 @@
+.bgcolor{
+	background-color: rgb(1, 1, 12)
+}
+
+.slec1
+{
+	font-weight: bold;
+	color: white;
+	background-color: black;
+	margin-top:10px;
+	margin-left:20px;
+	width:200px;
+}
+.slec1:focus 
+{
+	outline: none;
+	border:1px solid gold;
+	box-shadow: 2px 2px 2px 15 gold;
+}
+
+.imglogo
+{
+	position: absolute;
+	top:10px;
+	right:20px;
+	cursor: pointer;
+}
+.img2{
+	width: 80%;
+	height: 80%;
+}
+.img2 , .text{
+  margin: auto;
+  margin-top:100px;
+}
+.text{
+	color:white
+}
+.text h2{
+	color:white;
+   font-size:60px;
+   
+}
+.text p{
+	font-size:30px;
+}
+.government
+{
+ color:green;
+ font-weight: bold;
+ cursor: pointer;
+}
+.text .sell{
+	color:gold;
+	font-size:50px
+}
+.text .projects
+{
+	background-color: gold;
+	color: black;
+	font-weight: bold;
+	font-size:25px;
+	text-align: center;
+	padding:10px 50px;
+
+}
+.text .projects:hover , form div .send:hover , .show:hover
+{
+ background-color: rgb(2, 2, 51);
+ color:white;
+ transition: 0.3s;
+ text-decoration: none;
+ border-radius: 10px;
+ 
+}
+ .line{
+	margin-top:50px
+}
+.line1 , .line2{
+	width:300px;
+	color:gold;
+	height: 1px;
+}
+.line2{
+	background-color: goldenrod;
+}
+ .line .line2
+{
+	position: relative;
+	top:-10px;
+	left:30px
+}
+.text{
+	border-right: 1px solid gold;
+	border-top: 1px solid gold;
+	border-left: 1px solid gold;
+}
+.form{
+	background-color: rgb(126, 121, 121);
+	margin-top:50px;
+	padding:20px 10px;
+	animation: left 1s ease-in-out
+    
+}
+
+.form .textconect
+{
+	text-align: center;
+	color:gold;
+	font-size:30px;
+	font-weight: bold;
+
+}
+.information div textarea
+{
+	width:100%;
+	height:100%
+}
+.phone
+{
+	border-bottom-left-radius: 0px;
+	border-top-left-radius: 0px;
+
+}
+.information div .selc2 
+{
+  
+  background-color: #eee;
+  color:black;
+  height:36px;
+  padding-right:8px;
+  border-bottom-left-radius: 3px;
+  border-top-left-radius: 3px;
+  margin-top:-1px;
+  border:1px solid gray
+  
+}
+.information div .selc2:focus  , .show:focus
+{
+	outline: none;
+
+}
+.information div .selc2 , .phone{
+	position: relative;
+	top:15px
+}
+ ::placeholder
+{
+	position: absolute;
+	right:4px;
+	color:white;
+	font-weight: bold;
+	font-size:20px
+}
+form div{
+	margin-bottom:20px
+}
+form div .form-control{
+	background-color: rgb(214, 207, 207);
+}
+form div .send{
+	background-color:gold;
+	color:black;
+	font-weight: bold;
+	font-size:20px;
+	padding-bottom: 30px;
+}
+
+.list ul{
+display: flex;
+
+}
+.list ul li div{
+	margin-top:10px
+}
+.tr
+{
+	border:1px solid gold ;
+   padding:0px;
+   
+}
+.images div h2{
+	color:gold
+}
+.images div p{
+	color:white;
+	margin-top:10px
+}
+.images{
+	margin-top:40px
+}
+.paragraph .sp1{
+	color:gold;
+	font-size:50px;
+	display: block;
+}
+.paragraph .sp2
+{
+	color:white;
+	font-size:20px;
+	
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.tr .spa , .tr .sp3{
+	color:white;
+	font-size:20px;
+	display: block;
+}
+.tr .sp3{
+	padding-bottom: 10px;
+}
+.tr .sp2{
+	color:green;
+	font-weight: bold;
+	font-style: italic;
+}
+.tr  img
+{
+	width: 100%;
+	height:160px;
+}
+.tr {
+	margin-bottom: 20px;
+}
+.contain{
+	display: flex;
+	 padding:20px 0px;
+}
+.contain div img{
+width:100px;
+animation: book 1s ease-in  infinite;
+}
+.nationally
+{
+	display: block;
+	color:white;
+	font-size:25px
+}
+.show{
+	background-color: gold;
+	color:black;
+	padding:5px 20px;
+	font-size:18px;
+
+  border-radius: 3px;
+	margin-top:20px;
+	margin-left:10px
+}
+.videos div img{
+	height: 300px;
+}
+.thanks{
+	color:white;
+	font-size:18px;
+	padding-top:10px
+}
+.ved{
+	color:gold;
+	font-weight: bold;
+	font-size:30px;
+}
+.afterform
+{
+	margin-top:40px
+}
+.custumer{
+	color:white;
+	font-size:20px
+}
+ .tr , .videos img{
+	border-radius: 10px;
+}
+.artical .tr{
+	overflow: hidden;
+}
+.artical .tr img:hover{
+	cursor: pointer;
+	transition: 0.3s;
+	transform: rotateY(20deg);
+}
+.paragraph .chose
+{
+	color:white;
+	font-size:27px
+}
+.artical div .thanks
+{
+	font-size:14.5px
+}
+.listtask div ul li{
+	margin-top: 20px;
+	font-size:20px;
+}
+.imgkey{
+	width:100% ;
+	border-radius: 5px;
+}
+.listtask .navbar-right
+{
+	color:white
+}
+.floot{
+	margin-top:30px;
+	color:white;
+	font-size:20px;
+	margin:20px auto;
+	border-bottom:1px solid gold;
+}
+.presentation1 .textone{
+	color:gold;
+	font-size:30px
+}
+.presentation1{
+	background-color: rgb(22, 22, 22);
+	border-radius: 10px;
+	padding:20px 0px;
+}
+.presentation1 .video
+{
+	color:gold;
+	font-size: 20px;
+	
+}
+
+.presentation1 div a img
+{
+	width:900px;
+	height:500px;
+	margin-top: 20px;
+}
+.presentation1 div .pargraph , .presentation1 div .yourapartmet ,.presentation1 div .socity
+{
+	color:white;
+	font-size:27px;
+	text-align: right;
+	
+}
+.presentation1 div .yourapartmet 
+{
+	margin-bottom: 30px;
+}
+.presentation1 .lisisize
+{
+	color:gold;
+	font-size:20px;
+	direction: rtl;
+}
+.presentation1 .photo img{
+	width: 70%;
+	margin:auto;
+	margin-bottom: 20px;
+}
+.presentation1 div .suprise
+{
+	color:gold;
+	font-size:20px;
+	font-weight: bold;
+}
+.presentation1 div .suprise2
+{
+	color:white;
+	font-size:20px;
+	font-weight: bold;
+}
+.presentation1 .icon
+{
+   
+    top:10px;
+   margin-left: 10px;	
+	border:2px solid white;
+	border-radius: 50%;
+	font-weight: bold;
+	color:white;
+	padding:6px 10px;
+	
+}
+ .presentation1 .icon:hover
+{ transition: 0.3s;
+	cursor: pointer;
+	background-color: gold;
+	color:black;
+}
+.presentation1 div .partthree{
+	position: relative;
+	top:30px;
+}
+.imgthree
+{
+	margin-top:40px;
+}
+.one , .two , .three , .four , .five , .sex , .seven{
+	display: none;
+	position:absolute;
+	height: 700px;
+	overflow: auto;
+	
+}
+.conselect
+{
+	animation: left 1s ease-in-out ;
+}
+.logo2{
+	animation: right 1s ease-in-out ;
+}
+.logo3{
+	animation: left 2s ease-in-out ;
+}
+.logo4{
+	animation: rightphoto 2s ease-in-out ;
+}
+.images .img1 , .images .img4 , .images .img3{
+	display: none;
+}
+.d-btn .btn
+{
+	transform: rotate(-90deg);
+	position: fixed;
+	bottom: 0px;
+	right:-50px;
+	font-size:16px;
+	z-index:3;
+
+}
+.ph1{
+	display: none;
+}
+.meteria{
+	color:white;
+
+}
+.meteria .col-xs-12 span
+{
+	font-size:20px;
+	color:gold
+}
+.meteria  .tahrer span{
+  color:white;
+  border-bottom:1px solid gold;
+ padding-bottom: 10px;
+}

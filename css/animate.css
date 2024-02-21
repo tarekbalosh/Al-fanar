@@ -1,0 +1,72 @@
+@keyframes book
+ {
+  0%{
+    position: relative;
+    top:0px;
+  }
+  
+  100%{
+    position: relative;
+    top:5px;
+  }
+  
+}
+@keyframes left
+ {
+  0%{
+    position: relative;
+   left:-700px
+  }
+  
+  100%{
+    position: relative;
+   left:0px
+  }
+  
+}
+@keyframes line
+ {
+  0%{
+    position: relative;
+   right:-500px
+  }
+  
+  100%{
+    position: relative;
+   right:0px
+  }
+  
+}
+@keyframes right
+ {
+  0%{
+  
+  	position: absolute;
+	  top:0px;
+	  right:-200px;
+  }
+  
+  100%{
+    
+    position: absolute;
+    top:0px;
+    right:0px;
+  }
+  
+}
+@keyframes rightphoto
+ {
+  0%{
+  
+  	position: relative;
+	 
+	  right:-500px;
+  }
+  
+  100%{
+    
+    position: relative;
+   
+    right:0px;
+  }
+}

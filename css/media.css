@@ -1,0 +1,343 @@
+@media(max-width:765px)
+{
+    .images .img1 , .images .img4 , .images .img3{
+        display: none;
+    }
+    .form{
+      
+        
+    }
+    .text h2{
+        color:white;
+       font-size:40px;  
+    }
+    .text .sell{
+        color:gold;
+        font-size:30px
+    }
+    .form .textconect
+{
+	font-size:20px;
+}
+.img2{
+    position: relative;
+    top:30px;
+}
+.slec1
+{
+    width:100px;
+   
+}
+div .trki{
+    font-size:22px
+}
+.line1 , .line2{
+	width:200px;
+	color:gold;
+	height: 1px;
+}
+.paragraph .line2
+{
+	position: relative;
+	top:-10px;
+	left:10px
+}
+.paragraph .sp1{
+    font-size:26px
+}
+.con .line
+{
+    position:relative;
+    top:20px
+}
+.show
+{
+  font-size:15px;
+  margin-top:40px
+}
+.nationally{
+   font-size:20px
+}
+.tr .spa , .tr .sp3 {
+	color:white;
+	font-size:30px;
+	display: block;
+}
+.tr .sp2{
+  font-size:20px
+}
+.paragraph .chose
+{
+	color:white;
+	font-size:20px
+}
+.floot{
+    margin-top:30px;
+    color:gray;
+    font-size:12px;  
+}
+
+.presentation1 .video
+{
+	color:gold;
+	font-size: 20px;
+}
+.presentation1 div a img
+{
+	width:300px;
+	height:300px
+}
+.presentation1 div .pargraph , .presentation1 div .yourapartmet ,.presentation1 div .socity
+{
+	color:white;
+	font-size:15px;
+	text-align: right;
+}
+.presentation1 div .yourapartmet 
+{
+	margin-bottom: 30px;
+}
+.presentation1 .lisisize
+{
+	color:gold;
+	font-size:17px;
+	direction: rtl;
+}
+.presentation1 .photo img{
+	width: 100%;
+	margin:auto;
+    margin-bottom: 20px;
+}
+.presentation1 div .suprise
+{
+	color:gold;
+	font-size:15px;
+	font-weight: bold;
+}
+.presentation1 .textone{
+	color:gold;
+	font-size:20px
+}
+.presentation1 .icon
+{
+ 
+  position: relative;
+  top:-10px;
+    margin-left: 10px;	
+     border:2px solid white;
+     border-radius: 50%;
+     font-weight: bold;
+     color:white;
+     padding:6px 10px;
+     
+ 
+}
+}
+@media(width:768px)
+{
+    .one , .two , .three {
+        display: none;
+        position:absolute;
+        top:2000px;
+        height: 700px;
+        overflow: auto;
+        
+    }
+    .artical div img , .tr div img , .tr img{
+        height: 400px;
+    }
+    .artical div .thanks , .tr .thanks{
+        font-size:37px
+    }
+   
+   
+    .artical .tr img
+    {
+        height: 300px;
+    }
+    .con .line
+{
+    position:relative;
+    top:20px
+}
+   div .trki{
+        font-size:24px
+    }
+    .img2{
+        width:100%;
+        height:100%;
+    }
+    .text h2{
+        color:white;
+       font-size:50px;  
+    }
+    .text .sell{
+        color:gold;
+        font-size:30px
+    }
+    .phone{
+        width:224px
+    }
+    body .form{
+      
+       width:97%;
+   }
+   .show{
+       margin:20px auto;
+       width:200px;
+       font-size:20px
+   }
+   .tr .spa , .tr .sp3 {
+	color:white;
+	font-size:30px;
+	display: block;
+}
+.tr .sp2{
+  font-size:20px
+}
+.contain div img{
+    width: 150px;
+    height: 200px;
+   margin-left:20px;
+   margin-top: -40px;
+    }
+.nationally
+{
+    font-size:28px
+}
+.presentation1 div a img
+{
+	width:600px;
+	height:400px;
+    
+}
+}
+@media(width:1024px)
+{
+    
+    .show{
+        margin:20px auto;
+        width:200px;
+        font-size:30px
+    }
+    .tr .spa , .tr .sp3 {
+     color:white;
+     font-size:50px;
+     display: block;
+ }
+ .tr .sp2{
+   font-size:35px
+ }
+ 
+    .contain div img  
+    {
+        width: 200px;
+       height: 200px;
+       margin-left:20px;
+       margin-top: -40px;
+        
+     }
+ .nationally
+ {
+     font-size:40px
+ }
+ 
+  .phone{
+      width:335px
+  }
+  body .form{
+      
+    width:97%;
+}
+.con .line
+{
+    position:relative;
+    top:20px
+}
+.artical div img , .tr  img{
+    height: 400px;
+}
+.artical div .thanks , .tr .thanks{
+    font-size:40px
+}
+
+}
+@media(width:280px)
+{
+   .paragraph .sp1{
+       font-size: 16px;
+   }
+   .paragraph .sp2
+{
+    font-size: 14px;
+}
+    .text .projects
+    {
+     font-size:15px
+    
+    }
+    .show{
+       position: relative;
+       right:15px;
+        width:100px;
+        font-size:10px
+    }
+    .nationally{
+        font-size:15px;
+    }
+   
+}
+@media(width:411px)
+{
+   
+    .phone{
+        width:208px
+    }
+}
+@media(width:540px)
+{
+    .tr .spa , .tr .sp3 {
+        color:white;
+        font-size:30px;
+        display: block;
+    }
+    .tr .sp2{
+      font-size:20px
+    }
+    .show{
+        margin:30px auto;
+        width:150px;
+        font-size:20px
+    }
+    .phone{
+        width:333px
+    }
+}
+@media(width:320px)
+{
+    .show
+    {
+      font-size:11px;
+      font-weight: normal;
+      background-color: rgb(49, 49, 49);
+    }
+   
+}
+@media(min-width:1025px)
+{
+   
+    .text .projects
+    {
+      position: relative;
+      top:20px
+    
+    }
+    .one , .two , .three {
+        display: none;
+        position:absolute;
+        top:1000px;
+        height: 700px;
+        overflow: auto;
+        
+    }
+}
